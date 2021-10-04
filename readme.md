@@ -1,3 +1,5 @@
+This is a Kanban board that is implemented using Flask, where you can create your account and persist data into a SQL database.
+
 Project Directory
 
 |   kanban.db
